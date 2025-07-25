@@ -24,11 +24,8 @@ Created as part of my **Web Development Internship** to demonstrate mathematical
 
 > *Insert image preview here*  
 > Example:  
-> ![Calculator Screenshot](link-to-image)
+> ![Calculator Screenshot](https://github.com/UtkarshSingh-01/Calculator/blob/main/Sample%20Image/Screenshot%202025-07-25%20215442.png)
 
 ## 🌐 Live Demo
 
 > *[Click to view the live version](#)*
-
-## 📁 Folder Structure
-
